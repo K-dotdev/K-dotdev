@@ -1,7 +1,7 @@
 K-dotdev
 
-This is my personal git
-I'm currently develop my website.
+This is my personal github.
+I'm currently developing my website.
 This github will be support my future projects
 
 Thanks for comming to my github
